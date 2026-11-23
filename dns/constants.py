@@ -12,6 +12,7 @@ class RecordType(IntEnum):
     SOA = 6
     NULL = 10
     WKS = 11
+    PTR = 12
     HINFO = 13
     MINFO = 14
     MX = 15
